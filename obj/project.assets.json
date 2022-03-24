@@ -830,11 +830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2085786\\OneDrive - Cognizant\\Desktop\\DFSE\\MFPE\\Final Project\\ComponentProcessingMS\\ComponentProcessingMS.csproj",
+      "projectUniqueName": "C:\\Users\\2085786\\source\\ComponentProcessingMS\\ComponentProcessingMS.csproj",
       "projectName": "ComponentProcessingMS",
-      "projectPath": "C:\\Users\\2085786\\OneDrive - Cognizant\\Desktop\\DFSE\\MFPE\\Final Project\\ComponentProcessingMS\\ComponentProcessingMS.csproj",
+      "projectPath": "C:\\Users\\2085786\\source\\ComponentProcessingMS\\ComponentProcessingMS.csproj",
       "packagesPath": "C:\\Users\\2085786\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2085786\\OneDrive - Cognizant\\Desktop\\DFSE\\MFPE\\Final Project\\ComponentProcessingMS\\obj\\",
+      "outputPath": "C:\\Users\\2085786\\source\\ComponentProcessingMS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2085786\\AppData\\Roaming\\NuGet\\NuGet.Config",

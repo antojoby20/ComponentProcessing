@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7lHYKuvtFKIq/CEMYQN5HNW7AcqA+Gux47GQ9DWkXbUgH4gbS3E74NJWWi/AZov9k8rKQtzvB+akINz1x2j+Q==",
+  "dgSpecHash": "cNLHqz5CoMgwcLWRdn9lShplFEOQfW5ScNzvrOaaOeGsBKf6lUhKKuNZIs+aNuGlxXiN/VBh8V2cgcYmSXhyXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2085786\\OneDrive - Cognizant\\Desktop\\DFSE\\MFPE\\Final Project\\ComponentProcessingMS\\ComponentProcessingMS.csproj",
+  "projectFilePath": "C:\\Users\\2085786\\source\\ComponentProcessingMS\\ComponentProcessingMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2085786\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\2085786\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
