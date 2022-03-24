@@ -1,0 +1,56 @@
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.exe
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.deps.json
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.runtimeconfig.json
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.runtimeconfig.dev.json
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.dll
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.pdb
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.csproj.AssemblyReference.cache
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.AssemblyInfoInputs.cache
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.AssemblyInfo.cs
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.csproj.CoreCompileInputs.cache
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\staticwebassets\ComponentProcessingMS.StaticWebAssets.Manifest.cache
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\staticwebassets\ComponentProcessingMS.StaticWebAssets.xml
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComponentProcessingMS.styles.css
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.RazorTargetAssemblyInfo.cache
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.dll
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.pdb
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.genruntimeconfig.cache
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2085786\source\repos\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.csproj.CopyComplete
+C:\Users\2085786\source\repos\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.exe
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.deps.json
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.runtimeconfig.json
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.runtimeconfig.dev.json
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.dll
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\ComponentProcessingMS.pdb
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.csproj.AssemblyReference.cache
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.AssemblyInfoInputs.cache
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.AssemblyInfo.cs
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.csproj.CoreCompileInputs.cache
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\staticwebassets\ComponentProcessingMS.StaticWebAssets.Manifest.cache
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\staticwebassets\ComponentProcessingMS.StaticWebAssets.xml
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComponentProcessingMS.styles.css
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.RazorTargetAssemblyInfo.cache
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.csproj.CopyComplete
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.dll
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.pdb
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.genruntimeconfig.cache
