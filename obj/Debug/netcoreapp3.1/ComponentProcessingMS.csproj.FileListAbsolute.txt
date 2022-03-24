@@ -54,3 +54,4 @@ C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentP
 C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.dll
 C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.pdb
 C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\obj\Debug\netcoreapp3.1\ComponentProcessingMS.genruntimeconfig.cache
+C:\Users\2085786\OneDrive - Cognizant\Desktop\DFSE\MFPE\Final Project\ComponentProcessingMS\bin\Debug\netcoreapp3.1\YAMLFile.yml
